@@ -6,7 +6,7 @@ This is my project of implementing a very simple Client-Server Architecture usin
 
 ## Diagram
 
-![Untitled Diagram drawio](https://github.com/ShifatJahanShifa/A-Simple-Cilent-Server-Website/assets/121536886/d5e5c6b1-a039-4638-9466-037f15a5a195)
+![Untitled Diagram drawio (1)](https://github.com/ShifatJahanShifa/A-Simple-Cilent-Server-Website/assets/121536886/f8a603f6-bada-4e37-88f3-330d047f28bf)
 
 
 ## Lessons Learned
